@@ -1,20 +1,18 @@
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Welcome to Quynh Hop's blog!
+subtitle: Entrepreneurship, education and fashion
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/455111785_7633067970130289_5160009827264509190_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeFakI6tmNpNL7Gttur1hNh0ebU6uWvry6B5tTq5a-vLoOm4Gmak_g09OGjSj4N8XQQ&_nc_ohc=DIURo-QvRdIQ7kNvgG9ROsD&_nc_oc=Adgvsn166TmtHaqZT5bo-eLMzbXIWcjpNVbCCZbZ_atr3SsP5UJKYBO28WmKJ0z389E&_nc_zt=23&_nc_ht=scontent.fsgn5-10.fna&_nc_gid=A1-rWQFJWx7sIPlQY5Fztgq&oh=00_AYCFB0uwIMQd1x99-9Ues9clPI4iskMt_ESq-hInbgHx6g&oe=67ACC042
 category: blog
 tags:
   - welcome
   - blog
-author: mranderson
+author: quynhhop
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
